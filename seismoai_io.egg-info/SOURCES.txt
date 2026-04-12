@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+seismoai_io/__init__.py
+seismoai_io/io.py
+seismoai_io.egg-info/PKG-INFO
+seismoai_io.egg-info/SOURCES.txt
+seismoai_io.egg-info/dependency_links.txt
+seismoai_io.egg-info/requires.txt
+seismoai_io.egg-info/top_level.txt
+tests/test_io.py
